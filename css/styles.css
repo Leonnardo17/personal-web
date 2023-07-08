@@ -184,7 +184,7 @@ a:hover{
 #boton:hover{
     color: #27374D;
 }
-@media (max-width: 470px) {
+@media (max-width: 481px) {
     .container-hero p,h2{
         justify-content: center;
         align-self: flex-start;
