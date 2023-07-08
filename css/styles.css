@@ -166,13 +166,6 @@ a:hover{
     color: rgb(221, 230, 237);
 }
 
-.links{
-    display: inline-flex;
-    width: 30%;
-    justify-content: space-between;
-    align-items: center;
-}
-
 #boton:link{
     font-weight: bold;
     color: #ffffff  ; 
